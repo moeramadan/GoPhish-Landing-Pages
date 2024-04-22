@@ -28,6 +28,7 @@ This repository provides single-page HTML codes for realistic login pages suitab
 - **Microsoft 365 Login**: A realistic Microsoft 365 login page. More landing pages may be added in the future.
 ![Microsoft 365 Login Preview](https://github.com/moeramadan/GoPhish-Landing-Pages/raw/main/GIF%20of%20landingpage.gif)
 
+If at the time you import the HTML code and the Microsoft logo is not showing at the top, the image link in the code might be dead. I've provided the Microsoft logo in the Microsoft-o365-Landing-Page folder under "logo.png". Please upload it yourself to Imgur or IMGBB, and replace the link in the HTML code with the image's PNG link.
 ## Usage
 
 1. Clone or download this repository or copy paste the HTML code.
