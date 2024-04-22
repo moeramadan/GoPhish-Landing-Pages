@@ -14,6 +14,7 @@ Creating realistic login pages for Gophish phishing simulations can be challengi
 ## Available Landing Pages
 
 - **Microsoft 365 Login**: A realistic Microsoft 365 login page. More landing pages may be added in the future.
+![Microsoft 365 Login Preview](https://github.com/moeramadan/GoPhish-Landing-Pages/raw/main/GIF%20of%20landingpage.gif)
 
 ## Usage
 
