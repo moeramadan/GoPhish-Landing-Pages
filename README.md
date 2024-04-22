@@ -10,7 +10,6 @@ Creating realistic login pages for Gophish phishing simulations can be challengi
 
 - Authentic design: The landing pages closely resemble legitimate login interfaces, increasing the likelihood of successful phishing campaigns.
 - Single-page layout: Optimized to fit all necessary elements into a single page, eliminating potential issues with multi-page landing pages.
-- Customizable: Easily customize logos, text, and form fields to match specific phishing scenarios.
 
 ## Available Landing Pages
 
@@ -18,11 +17,9 @@ Creating realistic login pages for Gophish phishing simulations can be challengi
 
 ## Usage
 
-1. Clone or download this repository.
+1. Clone or download this repository or copy paste the HTML code.
 2. Customize the HTML code as needed to match your phishing scenario.
-3. Host the HTML file on a web server accessible to your phishing targets.
-4. Configure Gophish to use the hosted landing page in your phishing campaign.
-5. Conduct phishing simulations responsibly and ethically, complying with all laws and regulations.
+3. Conduct phishing simulations responsibly and ethically, complying with all laws and regulations.
 
 ## Get Gophish
 
