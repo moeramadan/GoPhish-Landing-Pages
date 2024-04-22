@@ -1,10 +1,22 @@
 # GoPhish Landing Pages
 
-This repository provides single-page HTML codes for realistic login pages suitable for Gophish penetration testing and phishing simulations. Please use this code responsibly and ethically.
+GoPhish is an open-source phishing framework that makes it easy to conduct phishing simulations and security awareness training. It allows security professionals to create and execute phishing campaigns against their own organization to test and improve their defenses.
+
+## Installation and Setup
+
+1. **Download GoPhish**: Start by downloading the GoPhish client from the official website: [getgophish.com](https://getgophish.com).
+
+2. **Installation**: Installing GoPhish is straightforward. Once you've downloaded the client, follow the installation instructions provided for your operating system.
+
+3. **Launch GoPhish**: After installation, launch the GoPhish client. By default, GoPhish runs on `https://127.0.0.1:3333/`.
+
+4. **Configure Credentials**: Log in to the GoPhish web interface using the standard credentials provided during installation. These credentials are typically visible in the command line output when you launch GoPhish for the first time.
+
 
 ## Overview
 
-Creating realistic login pages for Gophish phishing simulations can be challenging. This repository aims to address this by offering single-page HTML codes that closely mimic legitimate login interfaces, ensuring realistic phishing simulation experiences.
+This repository provides single-page HTML codes for realistic login pages suitable for Gophish penetration testing and phishing simulations. Creating realistic login pages for Gophish phishing simulations can be challenging, but this repository aims to address this by offering single-page HTML codes that closely mimic legitimate login interfaces, ensuring realistic phishing simulation experiences. Please use this code responsibly and ethically.
+
 
 ## Features
 
