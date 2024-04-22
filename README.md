@@ -24,3 +24,7 @@ Creating realistic login pages for Gophish phishing simulations can be challengi
 ## Get Gophish
 
 Download Gophish from [getgophish.com](https://getgophish.com) to create and execute phishing campaigns.
+
+## Disclaimer
+
+I cannot guarantee the functionality of these files for your specific use case. I provide the files "as-is" and offer no support to get them working.
